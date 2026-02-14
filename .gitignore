@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Virtual Environment
+agent_env/
+venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local testing and logs
+testing.py
+*.log
+
+# System files
+.DS_Store
+
+# Personal documentation
+project_details.md
