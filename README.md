@@ -1,7 +1,7 @@
 # Simple AI Agent with LangGraph and Groq
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A simple intelligent agentic workflow built with **LangChain** and **LangGraph**, powered by **Groq's LLaMA 3** models. This project demonstrates how to build a stateful processing pipeline that classifies, extracts entities, and summarizes text in a coordinated manner.
 
